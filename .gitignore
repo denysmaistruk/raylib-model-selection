@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Bash
+*.bat
+
+# Temporaries
+*.bak
+
+# Folders
+build
